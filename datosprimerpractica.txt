@@ -3,3 +3,5 @@ Edad : 18
 video juegos resientes: fifa 2021
 video juego favorito : fortnite 
 escuela:UNAM Facultad de Ingenieria 
+deporte:
+especialidad:
